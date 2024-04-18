@@ -17,7 +17,7 @@ for ( movement,heartRate ) in movementHeartRates {
     }
     print("You could go \(movement).")
 }
-
+//print(hello)
 /*:
  _Copyright © 2023 Apple Inc._
 
